@@ -1,0 +1,78 @@
+#+title: Isbjørnenes klub
+#+subtitle: 
+#+author: Jacob Debel
+#+date: 
+# Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
+#+reveal_theme: night
+#+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
+#+reveal_title_slide_background: ./img/isbjoerne.png
+#+reveal_default_slide_background:
+#+reveal_extra_options: slideNumber:"c",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+# #+reveal_extra_attr: style="color:red"
+#+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
+
+* The first rule of +Fight Club+ *Isbjørnenes klub*
+
+#+attr_html: :width 400px
+[[./img/fight_club.jpg]]
+
+#+reveal_html: <div style="font-size: 90%;">
+
+#+attr_reveal: :frag (appear)
+- +You do not talk about Fight Club+
+- *Du må aldrig afsløre reglerne overfor nogen.*
+
+* Hvor mange isbjørne er der?
+
+[[https://www.random.org/dice/?num=10]]
+
+* Hint 1
+#+begin_quote
+Hvad lever isbjørne på?
+#+end_quote
+
+** Isflager
+#+attr_html: :width 50%
+[[./img/isflage.jpg]]
+
+* Hint 2
+
+#+begin_quote
+Hvad æder isbjørne mest?
+#+end_quote
+
+** Sæler
+[[./img/sael.png]]
+
+* Hint 3
+
+#+begin_quote
+Hvordan jager isbjørne sæler?
+#+end_quote
+
+** De venter rundt om åndehullet
+#+attr_html: :width 80%
+[[./img/isbjoern_aandehul.jpg]]
+
+* Hint 4
+#+begin_quote
+Hvor meget kan man se af sådan en isbjørn?
+#+end_quote
+
+** Kun den sorte snude
+[[./img/isbjoern_sort_snude.jpg]]
+* Hint 5
+
+#+begin_quote
+Bliver *alle* sæler spist af isbjørne?
+#+end_quote
+
+** Nej da - Nogen overlever
+
+#+attr_html: :width 80%
+[[./img/overlevende_sael.jpg]]
+
+* Hint 6
+#+begin_quote
+Der kan godt være sæler uden, at der er isbjørne, men der kan *ikke* være isbjørne uden, at der ikke også er sæler.
+#+end_quote
